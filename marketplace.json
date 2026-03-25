@@ -1,0 +1,18 @@
+{
+  "name": "joshi4",
+  "plugins": [
+    {
+      "name": "resume-claude",
+      "source": ".",
+      "description": "Automatically resume your Claude Code session when you return to a git branch.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shantanu Joshi",
+        "url": "https://github.com/joshi4"
+      },
+      "repository": "https://github.com/joshi4/resume-claude",
+      "license": "MIT",
+      "keywords": ["git", "sessions", "productivity", "resume", "workflow"]
+    }
+  ]
+}
