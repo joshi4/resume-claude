@@ -1,6 +1,6 @@
 {
   "name": "resume-claude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically Resume your Claude Code session when you return to a git branch.",
   "author": {
     "name": "Shantanu Joshi",

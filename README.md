@@ -12,6 +12,14 @@ Run `claude` on a branch you've worked on before — it picks up exactly where y
 
 Then open a new terminal (or `source ~/.zshrc`) to activate the shell function.
 
+If `resume-claude` isn't found, add this repo as a marketplace first:
+
+```
+/plugin marketplace add https://github.com/joshi4/resume-claude
+```
+
+Then run `/plugin install resume-claude` again.
+
 ## How it works
 
 Two components work together:
